@@ -1,6 +1,8 @@
-# Autonomous vehicle using Deep Reinforcement learning by training in CARLA Simulator
-try repository
+# LiDAR-Based Autonomous vehicle using Deep Reinforcement learning by training in CARLA Simulator
 
-Hi, I just wnt to try a new branch
+Hi, everyone. 
 
-thanks, Github
+This project is about implementing Deep Q-network algorythm to brake and steering task of an autonomous vehicle.
+We simulated this algorythm in CARLA Simulator version 0.9.8.
+
+Thank you.
