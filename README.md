@@ -5,6 +5,6 @@
   This project is to implement an Deep Q-network algorythm to the brake and steering along the way task of an autonomous vehicle.
 We simulated this algorythm in CARLA Simulator version 0.9.8 which is a high resolution and realistic simulator for the autonomous task.
 
-We recommend that you open the above files with jupyter notebook in Anaconda.
+We recommend that you open the above files with jupyter notebook in Anaconda. Copy and place the files into the folder "example" of CARLA Simulator in your Anaconda environment.
 
   Thank you.
