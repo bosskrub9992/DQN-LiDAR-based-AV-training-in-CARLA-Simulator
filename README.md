@@ -7,7 +7,7 @@ We simulated this algorythm in CARLA Simulator version 0.9.8 which is a high res
 
 https://carla.org/
 
-We recommend that you open the above files with jupyter notebook in Anaconda. Copy and place the files into the folder "example" of CARLA Simulator in your Anaconda environment.
+We recommend that you open the above files with jupyter notebook in Anaconda. Copy and place the files into the folder "example" of CARLA Simulator in your Anaconda environment. Install the python library as the files mentioned.
 
   Thank you.
 
